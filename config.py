@@ -1,4 +1,4 @@
-TOKEN = "7053039711:AAHu5rO7JdXfDoOIegikUyhSNfLjRU9NrRQ"
+TOKEN = "ТОКЕН БОТА ТГ"
 
 ADMINS = {1022715518} # Айди админов.
 
